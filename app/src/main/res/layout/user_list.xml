@@ -22,7 +22,7 @@
             android:textStyle="bold"
             android:textColor="@color/black"
             android:layout_marginStart="12dp"
-            android:text="Nama : Ismail Nur Fuadi"
+            android:text="Nama : Juli Tri Purnomo"
             />
 
         <ImageButton
@@ -52,7 +52,7 @@
             android:textStyle="bold"
             android:textColor="@color/black"
             android:layout_marginStart="12dp"
-            android:text="Nim : 20102184"
+            android:text="Nim : 20102250"
             />
         <TextView
             android:id="@+id/txtTelepon"
@@ -63,7 +63,7 @@
             android:textStyle="bold"
             android:textColor="@color/black"
             android:layout_marginStart="12dp"
-            android:text="Telepon : 0984899033"
+            android:text="Telepon : 0895322084926"
             />
     </RelativeLayout>
 </androidx.cardview.widget.CardView>
